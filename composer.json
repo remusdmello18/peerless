@@ -1,0 +1,9 @@
+{
+    "require": {
+        "sprain/swiss-qr-bill": "^4.1",
+        "mpdf/mpdf": "^8.1",
+        "fpdf/fpdf": "^1.84",
+        "setasign/fpdi": "^2.3",
+        "tecnickcom/tcpdf": "^6.4"
+    }
+}
